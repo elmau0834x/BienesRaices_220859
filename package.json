@@ -1,0 +1,35 @@
+{
+  "name": "mx.utxj.ti.awos.bienesraices",
+  "version": "1.0.0",
+  "description": "Proyecto de Clase para la unidad 2, de la asignatura AWOS utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmau0834x/BienesRaices_220859.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "TailwindCSS",
+    "Nodemon",
+    "NodeJS",
+    "PUG",
+    "NodeMailer",
+    "Mailtrap",
+    "JWT"
+  ],
+  "author": "Mauricio Rosales Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmau0834x/BienesRaices_220859/issues"
+  },
+  "homepage": "https://github.com/elmau0834x/BienesRaices_220859#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
