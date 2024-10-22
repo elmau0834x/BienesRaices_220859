@@ -8,7 +8,8 @@ Para poder demostrar y aprender la creacion y consumo de interfaces de programac
 
 |No.|Fecha|Descripcion|Potenciador|Estatus|
 |--|--|--|--|--|
-|8.|17/10/24|Creacion de repositorio|x1|Activa|
+|8.|17/10/24|Creacion de repositorio|x1|🟢Finalizada|
+|9.|22/10/24|Creacion de un aplicacion Web usanso Express|x12|🟡Pendiente|
 
 ### Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
