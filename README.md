@@ -12,7 +12,7 @@ Para poder demostrar y aprender la creacion y consumo de interfaces de programac
 
 
 === Autor
-**Mauricio Rosales Gabriel** github.com/elmau0834x /
+**Mauricio Rosales Gabriel** [github.com/elmau0834x](github.com/elmau0834x) /
 Unidad 2 /
 Aplicaciones Web orientada a Servicios /
 Octubre 20244
