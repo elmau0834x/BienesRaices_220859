@@ -10,6 +10,10 @@ Para poder demostrar y aprender la creacion y consumo de interfaces de programac
 |--|--|--|--|--|
 |8.|17/10/24|Creacion de repositorio|x1|Activa|
 
+### Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 === Autor
 **Mauricio Rosales Gabriel** github.com/elmau0834x /
