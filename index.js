@@ -1,3 +1,6 @@
+import generalRoutes from "./routes/generalroutes.js";
+import userRoutes from "./routes/userRoutes.js"
+
 console.log("Hola desde Node.js, esto esta en hot reload");
 //Ejemplo de activacion hot reload
 // const express = require('express');
@@ -12,16 +15,5 @@ app.listen(port, () => {
 });
 
 //routin
-
-app.get("/", function (req, res) {
-  res.send("Hola desde la web, en Node.js");
-});
-
-app.get("/quieneres", function (req, res) {
-  res.json({
-    nombre: "Mauricio Rosales Gabriel",
-    carrera: "TI DSM",
-    grado: 4,
-    grupo: "A",
-  });
-});
+app.use('/',generalRoutes);
+app.use("/user",userRoutes);
