@@ -9,7 +9,8 @@ Para poder demostrar y aprender la creacion y consumo de interfaces de programac
 |No.|Fecha|Descripcion|Potenciador|Estatus|
 |--|--|--|--|--|
 |8.|17/10/24|Creacion de repositorio|x1|🟢Finalizada|
-|9.|22/10/24|Creacion de un aplicacion Web usanso Express|x12|🟡Pendiente|
+|9.|22/10/24|Creacion de un aplicacion Web usanso Express|x12|🟢Finalizada|
+|10.|23/10/24|Operaciones basicas de un Api a traves de los servicio http|x1|🟡Pendiente|
 
 ### Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
